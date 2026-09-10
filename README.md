@@ -181,3 +181,11 @@ xai-lime-shap/
 ├── LIME_breast_cancer.py
 │
 └── M1DS_TER_Groupe8.pdf
+
+---
+
+## Project Report
+
+A detailed report covering the theoretical foundations, experimental methodology, and comparison between LIME and SHAP is available in the repository.
+
+📄 [Read the full project report](M1DS_TER_Groupe8.pdf)
