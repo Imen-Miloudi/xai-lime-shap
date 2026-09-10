@@ -1,10 +1,11 @@
 # Explainable AI: LIME vs SHAP
 
-> Master 1 MAS Data Science — Aix-Marseille University  
-> Academic year 2025–2026
-> Project: Explainability of Linear and Non-Linear Models
-> Supervised by: Pierre Pudlo
-> Authors: Imen Miloudi & Warda Saikouk
+> **Master 1 — Applied Mathematics, Statistics: Data Science**  
+> Aix-Marseille University · 2025–2026
+
+**Project:** Explainability of Linear and Non-Linear Models  
+**Supervisor:** Pierre Pudlo  
+**Authors:** Imen Miloudi & Warda Saikouk
 
 ## Overview
 
