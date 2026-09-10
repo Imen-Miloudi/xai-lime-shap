@@ -174,7 +174,7 @@ Overall, LIME is useful for intuitive and rapid local exploration, while SHAP pr
 
 A detailed report covering the theoretical foundations, experimental methodology, and comparison between LIME and SHAP is available in the repository.
 
-📄 [Read the full project report](M1DS_TER_Groupe8.pdf)
+📄 [Read the full project report](report/M1DS_TER_Groupe8.pdf)
 
 ---
 
