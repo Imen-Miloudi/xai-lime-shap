@@ -1,7 +1,10 @@
 # Explainable AI: LIME vs SHAP
 
 > Master 1 MAS Data Science — Aix-Marseille University  
-> Study of explainability methods for black-box machine learning models
+> Academic year 2025–2026
+> Project: Explainability of Linear and Non-Linear Models
+> Supervised by: Pierre Pudlo
+> Authors: Imen Miloudi & Warda Saikouk
 
 ## Overview
 
